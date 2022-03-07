@@ -12,20 +12,6 @@ public class ProfilActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profil);
-    }
-
-    public void Iden(View view) {
-        Intent intent = new Intent(ProfilActivity.this, IdentitasSklhActivity.class);
-        startActivity(intent);
-    }
-
-    public void Dataleng(View view) {
-        Intent intent = new Intent(ProfilActivity.this, DatalengkapActivity.class);
-        startActivity(intent);
-    }
-
-    public void Datarin(View view) {
-        Intent intent = new Intent(ProfilActivity.this, DatarinciActivity.class);
-        startActivity(intent);
+        
     }
 }

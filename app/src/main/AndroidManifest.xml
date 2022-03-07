@@ -16,28 +16,16 @@
             android:name=".FasilitasActivity"
             android:exported="false" />
         <activity
-            android:name=".PerpusActivity"
-            android:exported="false" />
-        <activity
             android:name=".EkskulActivity"
             android:exported="false" />
         <activity
             android:name=".GaleriActivity"
             android:exported="false" />
         <activity
-            android:name=".DatarinciActivity"
-            android:exported="false" />
-        <activity
-            android:name=".DatalengkapActivity"
-            android:exported="false" />
-        <activity
-            android:name=".IdentitasSklhActivity"
-            android:exported="false" />
-        <activity
-            android:name=".DatapelengkapActivity"
-            android:exported="false" />
-        <activity
             android:name=".ProfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PrestasiActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
