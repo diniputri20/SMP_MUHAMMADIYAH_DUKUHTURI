@@ -293,7 +293,7 @@
                         android:textColor="#000"
                         android:textSize="18sp"
                         android:textStyle="bold"
-                        android:text="VISI DAN MISI"/>
+                        android:text="VISI MISI SEKOLAH"/>
 
                     <LinearLayout
                         android:layout_width="wrap_content"
@@ -395,7 +395,7 @@
                         android:textColor="#000"
                         android:textSize="18sp"
                         android:textStyle="bold"
-                        android:text="DATA LENGKAP"/>
+                        android:text="DATA PELENGKAP"/>
 
                     <LinearLayout
                         android:layout_width="wrap_content"
